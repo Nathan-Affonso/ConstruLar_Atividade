@@ -1,6 +1,4 @@
-# ConstruLar_Atividade
-
-# Sistema de Locação de Equipamentos
+# Sistema de Locação de Equipamentos ConstruLar
 
 Trabalho da disciplina de DS, proposto pelo professor Arnaldo Hidalgo, sobre a criação de um layout digital para uma empresa de locação de equipamentos leves, médios e pesados.
 
