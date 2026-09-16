@@ -29,6 +29,7 @@ Vale reforçar que nem todos os requisitos levantados foram cobertos nos protót
 ## Links do projeto
 
 📌 Figma: [https://www.figma.com/design/avqlsw7fBIXQcda0zQZjTF/Untitled?node-id=0-1&t=wbhLlQU82nuv6AAa-1]
+
 📌 GitHub: [https://github.com/Nathan-Affonso/ConstruLar_Atividade]
 
 ## Entregáveis
